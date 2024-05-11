@@ -2,9 +2,8 @@
 
 
 ## JavaScript Libraries
-CDN
+### CDN
 https://docs.skypack.dev/
-
 
 ### Filter & sort magical layouts
 https://isotope.metafizzy.co/
